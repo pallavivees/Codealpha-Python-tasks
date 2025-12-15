@@ -1,5 +1,3 @@
-# CodeAlpha Python Tasks
-
 # Python Portfolio Projects
 This repository contains two beginner-to-intermediate level Python projects that demonstrate skills in scripting, automation, file handling, and data processing.
 
