@@ -4,4 +4,3 @@ This repository contains all tasks completed as part of the CodeAlpha Python Int
 
 Tasks included:
 - Task 1: Stock Portfolio Tracker
-- Task 2: Task Automation Script
