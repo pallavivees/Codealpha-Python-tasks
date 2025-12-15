@@ -39,7 +39,3 @@ Moves all `.jpg` files from a source folder to a target folder.
 ---
 ## Author
 V.Pallavi
-
-
-## 📄 Author
-Your Name
